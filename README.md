@@ -2,7 +2,6 @@
 
 A library of React components created using `create-react-app`.
 
-> For support for **react <18.0.0**,**react-dom <18.0.0**,**react-scripts <5.0.0**
 
 ## NPM publication
 [You can see npm publication here](https://www.npmjs.com/package/modal-christ)
